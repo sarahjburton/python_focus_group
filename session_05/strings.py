@@ -53,8 +53,11 @@ print(upper1_str)
 spaced_out = " M y N a m e I s V i k i "
 right_strip = spaced_out.rstrip()
 left_strip = spaced_out.lstrip()
+removeallspace_str = spaced_out.replace(" ","")
 
 print(right_strip)
 print(left_strip)
+print(removeallspace_str)
+
 
 
