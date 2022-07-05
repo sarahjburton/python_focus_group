@@ -10,3 +10,7 @@ NA; worked on UNIX commands only
 
 ## Session_03
 hello_world.py: A Python script that prints "Hello, World!" when run
+
+## Session_04
+comments.py: A Python script that prints numbers and pet names, learning to use comments
+variables.py: A Python script that teaches about legal and illegal variables
