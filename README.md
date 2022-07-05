@@ -14,3 +14,6 @@ hello_world.py: A Python script that prints "Hello, World!" when run
 ## Session_04
 comments.py: A Python script that prints numbers and pet names, learning to use comments
 variables.py: A Python script that teaches about legal and illegal variables
+
+## Session_05
+strings.py: A Python script that teaches about strings, escape sequences, manipulating strings, and stripping spaces
