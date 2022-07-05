@@ -17,3 +17,7 @@ variables.py: A Python script that teaches about legal and illegal variables
 
 ## Session_05
 strings.py: A Python script that teaches about strings, escape sequences, manipulating strings, and stripping spaces
+
+## Session_06
+more_strings.py: A Python script that teaches about indexing strings, strides, assessing string properties, replicating string elements, concatenating strings, and string formatting (string interpolation)
+extrapractice.py: A Python script that is practice using strings
