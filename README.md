@@ -21,3 +21,10 @@ strings.py: A Python script that teaches about strings, escape sequences, manipu
 ## Session_06
 more_strings.py: A Python script that teaches about indexing strings, strides, assessing string properties, replicating string elements, concatenating strings, and string formatting (string interpolation)
 extrapractice.py: A Python script that is practice using strings
+
+## Session_07
+numeric_types.py: A Python script that teaches about types of data, such as integers, floats, and complexes
+type_casting: A Python script that teaches about converting data types
+expressions.py: A Python script that teaches about expressions and simultaneous math and assignment
+complex_math.py: A Python script that teaches about importing modules and complex math
+extra_practice.py: A Python script that is practice using session 7 material
