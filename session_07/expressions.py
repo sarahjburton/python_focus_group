@@ -30,6 +30,7 @@ print(f'The floored quotient of {a} and {c} is {a//c}')
 
 # Find the remainder of a divided by c
 # This is referred to as the modulo
+# Gives the numerator of the fraction of the mixed number
 print(f'The remainder of {a} divided by {c} is {a % c}')
 
 # Find negative d
@@ -62,6 +63,7 @@ total_hr = total_min/60
 print(total_hr)
 
 # Practice simultaneous math and assignment
+# Used to count number of things in data frame: if this value is here, add one to this value and overide the previous value
 i = 0
 i = i + 1 # fully written out
 print(i)

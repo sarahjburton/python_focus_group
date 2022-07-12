@@ -34,6 +34,10 @@ print(my_float, type(my_float))
 my_float2 = float("3")
 print(my_float2, type(my_float2))
 
+'''
 x = something
 if x % 5 == 0:
 	return True
+'''
+
+print(20 % 5)
