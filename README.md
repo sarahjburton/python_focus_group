@@ -28,3 +28,9 @@ type_casting: A Python script that teaches about converting data types
 expressions.py: A Python script that teaches about expressions and simultaneous math and assignment
 complex_math.py: A Python script that teaches about importing modules and complex math
 extra_practice.py: A Python script that is practice using session 7 material
+
+## Session_08
+tuples.py: A Python script that teaches about tuples (indexing, slicing, sorting, concentrating, nested)
+lists.py: A Python script that teaches about lists (indexing, appending, extending, inserting, deleting, split, alias, simple statistics)
+ranges.py: A Python script that teaches about ranges
+extrapractice.py: A Python script that practices the material learned in session 8
