@@ -14,6 +14,7 @@ print(not_int, type(not_int))
 
 # Floats
 float1 = 1.0
+print(f'the type for float1 is {type(float1)}')
 float2 = 3.4
 float3 = 74.3
 float4 = 9.99999999999
