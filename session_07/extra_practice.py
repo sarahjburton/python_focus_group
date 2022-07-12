@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #Determines the data type of the following variables: var1 = "9.2", var2 = 17, and var3 = 3.4.
 var1 = "9.2"
 var2 = 17

@@ -12,8 +12,8 @@ not_int = 21,543,215
 print(int5, type(int5))
 print(not_int, type(not_int))
 
-# Floats
-float1 = 1.0
+# Floats are not whole numbers, they have decimals and fractions
+float1 = 1.0 
 print(f'the type for float1 is {type(float1)}')
 float2 = 3.4
 float3 = 74.3

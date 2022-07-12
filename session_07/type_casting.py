@@ -33,3 +33,7 @@ print(my_float, type(my_float))
 #Turn the string "3" into a float
 my_float2 = float("3")
 print(my_float2, type(my_float2))
+
+x = something
+if x % 5 == 0:
+	return True
