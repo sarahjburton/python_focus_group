@@ -2,6 +2,13 @@
 
 import math
 
+# can also use 
+# from math import something
+
+# can also rename by doing
+# import pandas as pd
+# pd. instead of pandas. every time
+
 # Use square root for Pythagorean theorem
 a = 3
 b = 4
