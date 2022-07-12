@@ -21,6 +21,7 @@ float4 = 9.99999999999
 float5 = 1844384.85262
 float6 = 3/4
 float7 = 9/16
+print(f'{float7:.3f}')
 
 # Complexes
 
