@@ -28,11 +28,11 @@ print(my_float, type(my_float))
 sum4_5 = int(var4) + var5
 print(sum4_5)
 
-'''
+
 #Calculates the difference between var2 and var1.
-dif2_1 = var2 - int(var1)
+dif2_1 = var2 - float(var1)
 print(dif2_1)
-'''
+
 
 #Finds the product of var5 and var3.
 prod5_3 = var5 * var3
