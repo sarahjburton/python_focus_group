@@ -40,3 +40,6 @@ dictionaries.py: A Python script that teaches about dictionaries
 set_types.py: A Python script that teaches about sets and frozensets
 booleans.py: A Python script that teaches about booleans, comparison operators, and logic operators
 extrapractice.py: A Python script that practices the material learned in session 9
+
+## Session_10
+data_types: A Python script that teaches how to determine different data types
