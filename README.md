@@ -34,3 +34,9 @@ tuples.py: A Python script that teaches about tuples (indexing, slicing, sorting
 lists.py: A Python script that teaches about lists (indexing, appending, extending, inserting, deleting, split, alias, simple statistics)
 ranges.py: A Python script that teaches about ranges
 extrapractice.py: A Python script that practices the material learned in session 8
+
+## Session_09
+dictionaries.py: A Python script that teaches about dictionaries
+set_types.py: A Python script that teaches about sets and frozensets
+booleans.py: A Python script that teaches about booleans, comparison operators, and logic operators
+extrapractice.py: A Python script that practices the material learned in session 9
